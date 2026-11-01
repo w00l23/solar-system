@@ -3,6 +3,8 @@
 The Sun, its planets and their larger moons where they really are today,
 drawn in one HTML file with raw WebGL. No build, no dependencies, no network.
 
+![The Sun and planets on their real orbits for today, with the asteroid belt and the control pills along the bottom](docs/screenshot.jpg)
+
 **Run it:** open `index.html` in a browser. (Or serve the folder, e.g.
 `python3 -m http.server`, and open `http://localhost:8000`; that is needed
 only for "your sky tonight" to ask for your location.)
